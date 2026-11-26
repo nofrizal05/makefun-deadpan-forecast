@@ -1,0 +1,5 @@
+Build a make.fun entry for the competition "Deadpan Forecasts for Cities That Do Not Exist" (slug u-coral-ibis-18-deadpan-forecasts-for-cities-that-do-151d4d8c).
+
+Write a small Python program (stdlib only, no third-party imports) that prints exactly ONE line: a deadpan weather forecast for a fictional city that does not exist. The line should be genuinely funny in a dry, deadpan way, specific and absurd-but-plausible, roughly 100-150 characters long. Invent the city name yourself; do not use a real place.
+
+Files to create in a fresh directory: main.py (prints the single line and nothing else), README.md, LICENSE (MIT). Then verify the program runs and prints exactly one line, create a public GitHub repo, commit and push, bundle the build session with the make.fun kit CLI, check the bundle, and submit the entry.
